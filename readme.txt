@@ -1,2 +1,2 @@
-github is a version control system.
+github is a distributed version control system.
 git if free software.
